@@ -1,6 +1,6 @@
-# AI Talk Helper
+# Kindly AI
 
-AI Talk Helper is a web-based application designed to help people communicate better in difficult or emotional conversations. It analyzes message tone and emotions, and provides smarter, kinder message suggestions using Deep Learning (NLP) and GPT.
+Kindly AI is a web-based application designed to help people communicate better in difficult or emotional conversations. It analyzes message tone and emotions, and provides smarter, kinder message suggestions using Deep Learning (NLP) and GPT.
 
 ## Features
 
